@@ -1,0 +1,3 @@
+/mnt/h/GITs/AlogrithmDataStructrue/merge_sort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/h/GITs/AlogrithmDataStructrue/merge_sort/cmake-build-debug/CMakeFiles/merge_sort.dir
+/mnt/h/GITs/AlogrithmDataStructrue/merge_sort/cmake-build-debug/CMakeFiles/edit_cache.dir
